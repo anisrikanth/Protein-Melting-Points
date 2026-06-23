@@ -229,6 +229,3 @@ Current limitations include:
 - Matplotlib
 - NetworkX
 - Plotly
-## License
-
-No license has been specified yet.
